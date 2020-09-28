@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/makeevvd/react-samurai/static/css/main.caa6f234.chunk.css",
-    "main.js": "/makeevvd/react-samurai/static/js/main.5dc7332b.chunk.js",
-    "main.js.map": "/makeevvd/react-samurai/static/js/main.5dc7332b.chunk.js.map",
-    "runtime-main.js": "/makeevvd/react-samurai/static/js/runtime-main.d01bb29b.js",
-    "runtime-main.js.map": "/makeevvd/react-samurai/static/js/runtime-main.d01bb29b.js.map",
-    "static/js/2.ea4817c2.chunk.js": "/makeevvd/react-samurai/static/js/2.ea4817c2.chunk.js",
-    "static/js/2.ea4817c2.chunk.js.map": "/makeevvd/react-samurai/static/js/2.ea4817c2.chunk.js.map",
-    "index.html": "/makeevvd/react-samurai/index.html",
-    "precache-manifest.0d07f6cf1a9086dca8c43cdd6ce91604.js": "/makeevvd/react-samurai/precache-manifest.0d07f6cf1a9086dca8c43cdd6ce91604.js",
-    "service-worker.js": "/makeevvd/react-samurai/service-worker.js",
-    "static/css/main.caa6f234.chunk.css.map": "/makeevvd/react-samurai/static/css/main.caa6f234.chunk.css.map",
-    "static/js/2.ea4817c2.chunk.js.LICENSE.txt": "/makeevvd/react-samurai/static/js/2.ea4817c2.chunk.js.LICENSE.txt",
-    "static/media/preloader.svg": "/makeevvd/react-samurai/static/media/preloader.4ceb795a.svg"
+    "main.css": "/react-samurai/static/css/main.caa6f234.chunk.css",
+    "main.js": "/react-samurai/static/js/main.5dc7332b.chunk.js",
+    "main.js.map": "/react-samurai/static/js/main.5dc7332b.chunk.js.map",
+    "runtime-main.js": "/react-samurai/static/js/runtime-main.cfea0345.js",
+    "runtime-main.js.map": "/react-samurai/static/js/runtime-main.cfea0345.js.map",
+    "static/js/2.ea4817c2.chunk.js": "/react-samurai/static/js/2.ea4817c2.chunk.js",
+    "static/js/2.ea4817c2.chunk.js.map": "/react-samurai/static/js/2.ea4817c2.chunk.js.map",
+    "index.html": "/react-samurai/index.html",
+    "precache-manifest.6daf32b38da7bd1f4ae7b29fb0677252.js": "/react-samurai/precache-manifest.6daf32b38da7bd1f4ae7b29fb0677252.js",
+    "service-worker.js": "/react-samurai/service-worker.js",
+    "static/css/main.caa6f234.chunk.css.map": "/react-samurai/static/css/main.caa6f234.chunk.css.map",
+    "static/js/2.ea4817c2.chunk.js.LICENSE.txt": "/react-samurai/static/js/2.ea4817c2.chunk.js.LICENSE.txt",
+    "static/media/preloader.svg": "/react-samurai/static/media/preloader.4ceb795a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d01bb29b.js",
+    "static/js/runtime-main.cfea0345.js",
     "static/js/2.ea4817c2.chunk.js",
     "static/css/main.caa6f234.chunk.css",
     "static/js/main.5dc7332b.chunk.js"
