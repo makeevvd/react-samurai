@@ -1,0 +1,37 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems {
+    padding: 10px;
+}
+
+.dialogsItems .active {
+    color: gold;
+}
+
+.messages {
+    padding: 10px;
+}
+
+.message {
+
+}
+
+.profileImg {
+    width: 50px;
+}
+
+.dialog {
+    margin-bottom: 15px;
+}
+
+.active {
+    background-color: goldi;
+}
+
+/*.messageContainer {
+    display: flex;
+}*/
+

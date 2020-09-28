@@ -1,0 +1,55 @@
+.users {
+    margin-left: 20px;
+}
+
+.userContainer {
+    width: 60%;
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 40px;
+
+
+}
+
+.avatarContainer {
+    width: 15%;
+}
+
+.avatar {
+    width: 100%;
+}
+
+.infoContainer {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+    margin-left: 20px;
+    padding: 10px;
+
+
+    border: 1px solid #000000;
+    border-radius: 10px;
+
+}
+
+.personContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.status {
+    font-size: 14px;
+}
+
+.location {
+    text-align: right;
+}
+
+.followButton {
+    width: 100%;
+}
+
+.selectedPage {
+    font-weight: bold;
+}
